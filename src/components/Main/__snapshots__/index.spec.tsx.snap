@@ -1,9 +1,28 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should match snapshot 1`] = `
-<main>
-  <h1>
-    react avançado
+<main
+  class="indexstyles__Wrapper-sc-1y7lmfi-0 eRpYSd"
+>
+  <img
+    alt="Imagem de um átomo e React Avançado escrito ao lado"
+    class="indexstyles__Logo-sc-1y7lmfi-1 lbvvUy"
+    src="/img/logo.svg"
+  />
+  <h1
+    class="indexstyles__Title-sc-1y7lmfi-2 rYetY"
+  >
+    React Avançado
   </h1>
+  <h2
+    class="indexstyles__Description-sc-1y7lmfi-3 dHjBZn"
+  >
+    TypeScript, React, Next e Styles Components
+  </h2>
+  <img
+    alt="Um desenvolvedor de frente para uma tela com código"
+    class="indexstyles__Illustration-sc-1y7lmfi-4 fLLOqO"
+    src="/img/hero-illustration.svg"
+  />
 </main>
 `

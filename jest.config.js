@@ -5,4 +5,8 @@ module.exports = {
   collectCoverage: true,
   collectCoverageFrom: ['src/**/*.ts(x)'],
   // testPathIgnorePatterns: ['/node_modules/', '/next/'],
+  // moduleNameMapper: {
+  //   '^styled-components':
+  //     '<rootDir>/node_modules/styled-components/dist/styled-components.browser.cjs.js',
+  // },
 }
