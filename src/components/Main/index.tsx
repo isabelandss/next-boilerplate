@@ -1,4 +1,4 @@
-import * as S from './index.styles'
+import * as S from './styles'
 
 const Main = ({
   title = 'React Avançado',
