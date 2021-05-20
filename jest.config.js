@@ -1,5 +1,5 @@
 module.exports = {
-  testMatch: ['<rootDir>/src/**/*.spec.tsx'],
+  testMatch: ['<rootDir>/src/**/*test.tsx'],
   setupFilesAfterEnv: ['<rootDir>/.jest/setup.ts'],
   testEnvironment: 'jsdom',
   collectCoverage: true,
