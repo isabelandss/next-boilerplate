@@ -1,3 +1,5 @@
+```npx create-next-app -e https://github.com/isabelandss/next-boilerplate```
+
 ## Tecnologias
 
 - React
