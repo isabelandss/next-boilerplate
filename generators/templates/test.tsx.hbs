@@ -1,0 +1,10 @@
+import { render } from '@testing-library/react'
+
+import {{pascalCase name}} from '.'
+
+describe('<{{pascalCase name}} />', () => {
+  test('should match snapshot', () => {
+    const { container } = render(<{{pascalCase name}} />)
+    expect(container.firstChild).toMatchSnapshot()
+  })
+})
